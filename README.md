@@ -1,30 +1,44 @@
-# Hi there! 👋
+# Hi I'm **Harsh Bhalodiya**! 👋
+# 👋 Hi, I'm Mahavir Bharadwa!
 
-I'm **Harsh Bhalodiya**  
-- 🎓 Currently studying at [Your Institution]  
-- 💻 Interested in [Your Field/Technologies]  
-- 🚀 Projects:
-  - [Project 1 Name](project1-link): Short description
-  - [Project 2 Name](project2-link): Short description
-  - [Project 3 Name](project3-link): Short description
-- 📫 How to reach me: [your.email@example.com] or [LinkedIn/GitHub link]
+🚀 **Aspiring AI/ML Developer** | 🎓 Final-Year Computer Engineering Student  
+🔍 Passionate about solving real-world problems using intelligent, scalable solutions in Machine-learning and Data-Science.
 
 ---
 
-## About Me
+## 🌟 About Me
 
-A short paragraph about you, your interests, goals, and what you're passionate about.
-
-## Skills
-
-- Programming Languages: e.g., Python, JavaScript, etc.
-- Frameworks: e.g., React, Node.js, etc.
-- Tools: e.g., Git, Docker, etc.
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshbhalodiya099&show_icons=true)
+- 🎓 **Education**: B.E. in Information technology , *LDRP-ITR ,Gandhinagar*  
+- 💻 **Key Skills**: Python,Machine-learning,Pandas,HTML  
+- 🧠 **Interests**: Machine Learning, Natural Language Processing  
+- 🌐 **Portfolio Links**: [LinkedIn](https://www.linkedin.com/in/harsh-bhalodiya/) | [GitHub](https://github.com/Harshbhalodiya099)
 
 ---
 
-Thanks for visiting my profile!
+## 🔧 Tech Stack
+
+`Python` `TensorFlow` `PyTorch` `Django` `Flask` `SQLite` `NumPy` `Pandas`
+
+---
+
+## 🚀 Projects
+
+
+---
+
+## 🏆 Achievements & Certifications
+
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 GitHub: [Harsh - bhalodiya](https://github.com/Harshbhalodiya099)
+- 📩 Email: bhalodiyaharsh641@gmail.com  
+- 🖇️ LinkedIn: [Harsh bhalodiya](https://www.linkedin.com/in/harsh-bhalodiya/)
+
+---
+
+
+> “Let's transform ideas into intelligent solutions!” 💡🤖
+
