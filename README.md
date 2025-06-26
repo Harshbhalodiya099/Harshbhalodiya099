@@ -1,7 +1,7 @@
 # Hi I'm **Harsh Bhalodiya**! 👋
-# 👋 Hi, I'm Mahavir Bharadwa!
 
-🚀 **Aspiring AI/ML Developer** | 🎓 Final-Year Computer Engineering Student  
+
+🚀 **Aspiring Machine-Learning Engineer** | 
 🔍 Passionate about solving real-world problems using intelligent, scalable solutions in Machine-learning and Data-Science.
 
 ---
@@ -17,7 +17,7 @@
 
 ## 🔧 Tech Stack
 
-`Python` `TensorFlow` `PyTorch` `Django` `Flask` `SQLite` `NumPy` `Pandas`
+`Python`  `NumPy` `Pandas`
 
 ---
 
