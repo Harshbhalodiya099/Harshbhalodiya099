@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Harshbhalodiya099/Harshbhalodiya099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Harsh Bhalodiya**  
+- 🎓 Currently studying at [Your Institution]  
+- 💻 Interested in [Your Field/Technologies]  
+- 🚀 Projects:
+  - [Project 1 Name](project1-link): Short description
+  - [Project 2 Name](project2-link): Short description
+  - [Project 3 Name](project3-link): Short description
+- 📫 How to reach me: [your.email@example.com] or [LinkedIn/GitHub link]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+A short paragraph about you, your interests, goals, and what you're passionate about.
+
+## Skills
+
+- Programming Languages: e.g., Python, JavaScript, etc.
+- Frameworks: e.g., React, Node.js, etc.
+- Tools: e.g., Git, Docker, etc.
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshbhalodiya099&show_icons=true)
+
+---
+
+Thanks for visiting my profile!
