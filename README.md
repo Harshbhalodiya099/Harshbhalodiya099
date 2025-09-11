@@ -17,7 +17,7 @@
 
 ## 🔧 Tech Stack
 
-`Python`  `NumPy` `Pandas`
+`Python`  `NumPy` `Pandas` `Sci-kitLearn` `Tensorflow` `Keras` `Optuna` 
 
 ---
 
